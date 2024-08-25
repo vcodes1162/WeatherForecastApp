@@ -47,17 +47,18 @@ The Weather Forecast App allows users to get current and 5-day weather forecasts
 
 
 
-   ------ Usage -----
+  ##Usage
 
 Here’s how to use the Weather Forecast App:
 
-Search for Weather:
+**Search for Weather:
 Enter a city name in the input field.
 Click the "Search" button or press "Enter" to display the current weather and a 5-day forecast for that city.
 Use Current Location:
 Click the "Use Current Location" button to get weather information based on your current location.
 Select Recent Cities:
 Choose from the dropdown menu to view weather information for recently searched cities.
+
 Code Structure
 
 The project is organized into the following files:
