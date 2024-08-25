@@ -55,11 +55,13 @@ Search for Weather:
 
 Enter a city name in the input field.
 Click the "Search" button or press "Enter" to display the current weather and a 5-day forecast for that city.
+
+
 Use Current Location:
-
 Click the "Use Current Location" button to get weather information based on your current location.
-Select Recent Cities:
 
+
+Select Recent Cities:
 Choose from the dropdown menu to view weather information for recently searched cities.
 
 
