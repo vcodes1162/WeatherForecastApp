@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather Forecast App</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <h1>Weather Dashboard</h1>
+    <div class="container">
+        <div class="weather-input">
+            <h3>Enter a City Name</h3>
+            <input class="city-input" type="text" placeholder="E.g., New York, London, Tokyo">
+            <button class="search-btn">Search</button>
+            <div class="linebreak"></div>
+            <button class="location-btn">Use Current Location</button>
+            <!-- Dropdown menu for recent cities -->
+            <select class="city-dropdown" aria-label="Select a City Name">
+                <option value="">Select a City Name</option>
+            </select>
+        </div>
+        <div class="weather-data">
+            <div class="current-weather">
+                <!-- Weather details will be inserted here -->
+            </div>
+            <div class="days-forecast">
+                <h2>5-Day Forecast</h2>
+                <ul class="weather-cards">
+                    <!-- Weather forecast cards will be inserted here -->
+                </ul>
+            </div>
+        </div>
+    </div>
+    <script src="script.js" defer></script>
+</body>
+</html>
