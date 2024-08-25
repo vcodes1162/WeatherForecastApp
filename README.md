@@ -46,6 +46,9 @@ The Weather Forecast App allows users to get current and 5-day weather forecasts
     Open the 'index.html' file in your web browser to view and interact with the application.
 
 
+
+
+
    Usage
 
 Here’s how to use the Weather Forecast App:
