@@ -55,15 +55,15 @@ Search for Weather:
 
 Enter a city name in the input field.
 Click the "Search" button or press "Enter" to display the current weather and a 5-day forecast for that city.
-
 Use Current Location:
-Click the "Use Current Location" button to get weather information based on your current location.
 
+Click the "Use Current Location" button to get weather information based on your current location.
 Select Recent Cities:
+
 Choose from the dropdown menu to view weather information for recently searched cities.
 
 
-Code Structure
+Code Structure:
 
 The project is organized into the following files:
 
@@ -73,20 +73,19 @@ JavaScript (script.js): Manages the logic for fetching and displaying weather da
 
 
 License
-
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-
 Contributing
-
 Contributions are welcome! If you would like to contribute:
 
 Open an Issue: Report bugs or suggest features by opening an issue on GitHub.
 Submit a Pull Request: Propose changes or improvements by submitting a pull request.
+
+
 Contact
+For any inquiries or feedback, please contact — itjobalerts84@gmail.com
 
-For any inquiries or feedback, please contact itjobalerts84@gmail.com
-
+ 
 
 
    
