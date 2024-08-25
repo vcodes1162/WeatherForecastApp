@@ -47,8 +47,6 @@ The Weather Forecast App allows users to get current and 5-day weather forecasts
 
 
 
-
-
    Usage
 
 Here’s how to use the Weather Forecast App:
